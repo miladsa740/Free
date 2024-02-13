@@ -2,5 +2,4 @@ vless://55e76f4b-fef8-4de9-af50-921905a22fe9@104.19.250.47:443?security=tls&sni=
 vless://55e76f4b-fef8-4de9-af50-921905a22fe9@104.19.199.8:443?security=tls&sni=epson.tewedypa.workers.dev&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.tewedypa.workers.dev&encryption=none#F2
 vless://a20d6fc3-8341-491c-9922-1c6f9ef0ffd9@104.25.254.157:80?security=&fp=randomized&type=ws&path=/?ed%3D2048&host=mili.lixovaj573.workers.dev&encryption=none#GH%201
 vless://a20d6fc3-8341-491c-9922-1c6f9ef0ffd9@104.25.254.179:80?security=&fp=randomized&type=ws&path=/?ed%3D2048&host=mili.lixovaj573.workers.dev&encryption=none#GH%202
-vless://a20d6fc3-8341-491c-9922-1c6f9ef0ffd9@mci.ircf.space:80?security=&fp=randomized&type=ws&path=/?ed%3D2048&host=mili.lixovaj573.workers.dev&encryption=none#GH%203
-
+vless://a20d6fc3-8341-491c-9922-1c6f9ef0ffd9@104.17.253.83:443?security=tls&sni=mili.lixovaj573.workers.dev&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=mili.lixovaj573.workers.dev&encryption=none#GH%203
